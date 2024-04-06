@@ -1,6 +1,9 @@
-# Dashboad-Sales-Sences-PowerBI
+# Dashboad Sales Sences PowerBI
+
+## How to use the given dashboard
+
+- Use the Microsoft Office 365 for the Excel sheets </br>
+- All the dashboards were designed using Office 365
 
 
-Excel Office 365 used to design the Dashboard 
-
-Census dataset complete dashboard with the company data
+**Census dataset complete dashboard with the company data**
