@@ -7,3 +7,4 @@
 
 
 **Census dataset complete dashboard with the company data**
+All the dashboards were designed and updated with the latest dataset. 
